@@ -49,6 +49,10 @@ body {
 }
 
 
+a:link {
+  color:orangered;
+}
+
 .map{
   position:absolute; 
   left: 0; 
